@@ -1,0 +1,32 @@
+body {
+    background-color: #303636;
+    font-family:  "Times New Roman", Times, sans-serif;
+    margin-top: 100px;
+    text-align: center;
+}
+
+h1 {
+    color: #15ff00;
+}
+
+p {
+     color: #db0d0d;
+}
+
+h2 {
+    color:  #15ff00;
+}
+
+button {
+    background-color:  #db0d0d;
+    color: white;
+    border: none;
+    cursor:pointer;
+    border-radius: 8px;
+    padding: 10px 20px;
+}
+
+button:hover {
+    background-color: #15ff00;
+    color: #db0d0d;
+}
