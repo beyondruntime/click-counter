@@ -1,0 +1,11 @@
+# VS Code workspace settings
+.vscode/
+
+# JetBrains IDE workspace settings
+.idea/
+
+# macOS folder attributes cache
+.DS_Store
+
+# Windows thumbnail cache
+Thumbs.db
