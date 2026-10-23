@@ -1,8 +1,8 @@
 # Contributing
 
-Thanks for your interest in contributing to the Click Counter project. Whether you're fixing a bug, improving the interface, or adding a small enhancement, we appreciate your help.
+Thanks for your interest in contributing to the Click Counter project. Whether you're fixing a bug, improving the interface, or adding a small enhancement, your help is appreciated.
 
-This project is intentionally small and beginner-friendly, so we welcome thoughtful contributions from new and experienced developers alike.
+This project is independently maintained by [@beyondruntime](https://github.com/beyondruntime). I am the sole maintainer and am responsible for reviewing, approving, and merging changes. Contributions are welcome, but they are reviewed and finalized by me.
 
 ## Code of Conduct
 
@@ -28,25 +28,13 @@ You can contribute by:
 
 ## Local Development Setup
 
-This project is a simple static web app. You can run it using a browser directly or via a local Python HTTP server.
+This project is a simple static web app that runs directly in a browser.
 
-### Option 1: Open directly
+### Run the project
 
-Open `index.html` in a browser.
+Open `index.html` in a browser to launch the application.
 
-### Option 2: Run a local web server
-
-From the project root:
-
-```bash
-python -m http.server 8000
-```
-
-Then visit:
-
-```text
-http://localhost:8000
-```
+The main entry point of the project is `index.html`, and it loads the required CSS and JavaScript files automatically.
 
 ## Project Structure
 
@@ -71,6 +59,8 @@ click-counter/
 3. Validate the change locally in a browser.
 4. Commit your changes with a clear message.
 5. Open a pull request describing what changed and why.
+
+Please note: this project is managed by a single maintainer, so review timing and final decisions may vary depending on availability.
 
 Example branch naming:
 

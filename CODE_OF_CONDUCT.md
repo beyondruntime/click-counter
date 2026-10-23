@@ -6,6 +6,8 @@ We as members, contributors, and maintainers of this project pledge to make part
 
 We pledge to act and interact in ways that contribute to an open, welcoming, diverse, inclusive, and healthy community.
 
+This project is independently managed and maintained by [@beyondruntime](https://github.com/beyondruntime), who is the sole maintainer responsible for project direction, review, and final decisions.
+
 ## Our Standards
 
 Examples of behavior that contributes to a positive environment include:
@@ -28,6 +30,8 @@ Examples of unacceptable behavior include:
 
 Project maintainers are responsible for clarifying and enforcing our standards of acceptable behavior and will take appropriate and fair corrective action in response to any behavior they deem inappropriate, threatening, offensive, or harmful.
 
+Because this project is managed by a single maintainer, final enforcement decisions are made by [@beyondruntime](https://github.com/beyondruntime) in accordance with the standards described here.
+
 Project maintainers have the right and responsibility to remove, edit, or reject comments, commits, code, wiki edits, issues, and other contributions that are not aligned with this Code of Conduct, and will communicate reasons for moderation decisions when appropriate.
 
 ## Scope
@@ -36,7 +40,7 @@ This Code of Conduct applies within all project spaces, and also applies when an
 
 ## Enforcement
 
-Instances of abusive, harassing, or otherwise unacceptable behavior may be reported to the project maintainers through the repository's GitHub issue tracker or by contacting the maintainer team through the project's official communication channel, if one exists.
+Instances of abusive, harassing, or otherwise unacceptable behavior may be reported to the project maintainer through the repository's GitHub issue tracker or by contacting the maintainer directly through the project's official communication channels.
 
 All complaints will be reviewed and investigated promptly and fairly. The project team is obligated to respect the privacy and security of the reporter of any incident.
 
